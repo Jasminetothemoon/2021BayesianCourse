@@ -78,7 +78,7 @@ plt.ylabel('math')
 abline(m, c, linestyle='--', color=red)
 ```
 
-![](figure/14-1.png)
+![](/figure/14-1.png)
 
 
 ```python
